@@ -1,0 +1,19 @@
+Brainstorm of features:
+-Login ability (or maybe not?)
+-Server or local host?
+
+-multiple chat rooms (user in only one at a time?)
+   -Personal chatroom to begin with
+-Pictochat from DS
+-private messages? depends on login or nah
+-no pictures 
+-profanity filters (how do we ban anonymous people?)
+-display number of people in room
+-notifications?
+-run on startup??? Run in background???
+-
+
+
+Leaning towards anonymity.
+Server is a must
+
